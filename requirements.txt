@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-jose
+
+#poetry add "python-jose[cryptography]"
